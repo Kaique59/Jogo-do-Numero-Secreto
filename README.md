@@ -4,7 +4,7 @@ markdown
 O **Jogo do Número Secreto** é uma aplicação web interativa desenvolvida como parte do curso de Lógica de Programação da **Alura**. O projeto consiste em um jogo onde o usuário deve tentar adivinhar um número gerado aleatoriamente pelo sistema, recebendo dicas se o número secreto é maior ou menor do que o chute realizado.
 
 <div align="center">
-  <img src="img-readme.png" width="800" alt="Interface do Jogo do Número Secreto" />
+  <img src="./img/img-readme.png" width="800" alt="Interface do Jogo do Número Secreto" />
 </div>
 
 ## 🚀 Funcionalidades
