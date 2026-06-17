@@ -26,9 +26,3 @@ O **Jogo do Número Secreto** é uma aplicação web interativa desenvolvida com
 Este projeto foi desenvolvido sob a excelente orientação dos professores da Alura:
 - **Guilherme Lima**
 - **Mônica Mazzochi Hillman**
-
-## 📂 Como Executar o Projeto
-
-1. Clone este repositório para a sua máquina local:
-   ```bash
-   git clone [https://github.com/seu-usuario/Jogo-do-Numero-Secreto.git](https://github.com/seu-usuario/Jogo-do-Numero-Secreto.git)
